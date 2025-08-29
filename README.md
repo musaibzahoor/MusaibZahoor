@@ -1,7 +1,6 @@
-
 # Hi Developers 👋
 
-
+[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Musaib%20Zahoor-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com)](https://www.linkedin.com)
 [![Website Badge](https://img.shields.io/badge/WebSite-Musaib-green)](https://musaibzahoor.github.io)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Musaib-yellow)](https://stackoverflow.com)
@@ -17,21 +16,13 @@ The crossover between design and programming has always driven me. I enjoy build
   </a>
 </div>
 
----
-
-## 👀 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=musaibzahoor\&style=for-the-badge)
-
----
-
 ## Languages and Tools (MEAN & MERN focused)
 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
 </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40" />
+  <img src="https://vecta.io/app/link?src=https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" />
 </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
@@ -54,16 +45,22 @@ The crossover between design and programming has always driven me. I enjoy build
 
 ---
 
-## 📊 GitHub Activity Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=musaibzahoor\&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=musaibzahoor\&theme=react-dark\&hide_border=true\&area=true)
 
 <details open>
 <summary>📈 <strong>GitHub Stats</strong></summary>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=musaibzahoor&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
-    <img align="center" height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=musaibzahoor&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=10&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=musaibzahoor&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musaibzahoor&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=10&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=musaibzahoor&theme=react&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=musaibzahoor&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge"/>
 </p>
 </details>
 
@@ -78,7 +75,11 @@ The crossover between design and programming has always driven me. I enjoy build
 ## Projects
 
 * **QuickCart** — Full-stack e-commerce app (React/Node/Postgres) — `https://github.com/musaibzahoor/mypro`
-* **DevConnector** — Developer social hub (MERN) — *coming soon*
+* **ImageUpload** — Image upload app — `https://github.com/musaibzahoor/imageupload`
+* **LoginApp** — Authentication app — `https://github.com/musaibzahoor/loginapp`
+* **DevConnector** — Developer social hub (MERN) — `https://github.com/musaibzahoor/devconnector`
+* **WeatherApp** — Weather forecasting app — `https://github.com/musaibzahoor/weatherapp`
+* **ZomApp** — Food ordering clone — `https://github.com/musaibzahoor/zomapp`
 
 ## How to reach me
 

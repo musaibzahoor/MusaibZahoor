@@ -1,7 +1,7 @@
 
 # Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Musaib%20Zahoor-blue?style=flat-square\&logo=Linkedin\&logoColor=white\&link=https://www.linkedin.com)](https://www.linkedin.com)
 [![Website Badge](https://img.shields.io/badge/WebSite-Musaib-green)](https://musaibzahoor.github.io)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Musaib-yellow)](https://stackoverflow.com)
